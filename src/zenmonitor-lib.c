@@ -11,6 +11,7 @@
 #define AMD_STRING "AuthenticAMD"
 #define ZEN_FAMILY 0x17
 #define ZEN3_FAMILY 0x19
+#define ZEN3_FAMILY 0x1A
 
 const guint SENSOR_DATA_STORE_NUM = 4096;
 
